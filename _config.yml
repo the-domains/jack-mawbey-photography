@@ -1,0 +1,28 @@
+name: Jack Mawbey Photography
+favicon: null
+layout_spectrum: 0.6103980843909085
+typography_spectrum: 0.06604645936749876
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9198325343895704
+  lightness: 0.07789264060556889
+  saturation: 0.3734230303671211
+  rhythmicContrast: 0.39904485223814845
+purpose: []
